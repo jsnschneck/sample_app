@@ -19,3 +19,5 @@ doc/app
 *.swp
 *~
 .DS_Store
+binstubs/
+bundler_stubs/
