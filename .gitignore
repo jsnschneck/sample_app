@@ -21,3 +21,4 @@ doc/app
 .DS_Store
 binstubs/
 bundler_stubs/
+*.log
